@@ -42,7 +42,7 @@ The Open Knowledge (OK) is a non-profit organisation founded in 2004 and dedicat
 
 <div class='tableauPlaceholder' style='width: 1020px; height: 1033px;'>
   <noscript>
-    <a href='http:&#47;&#47;openknowledge.ie&#47;projects&#47;open-hospital-waiting-list&#47;'><img alt='Open Hospital Waiting List ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Op&#47;OpenHospitalWaitingList&#47;HospitalsWaitingList&#47;1_rss.png' style='border: none' /></a>
+    <a href='http://openknowledge.ie/projects/open-hospital-waiting-list/'><img alt='Open Hospital Waiting List ' src='https://public.tableau.com/static/images/Op/OpenHospitalWaitingList/HospitalsWaitingList/1_rss.png' style='border: none' /></a>
   </noscript>
 </div>
 
@@ -65,7 +65,7 @@ The Open Knowledge (OK) is a non-profit organisation founded in 2004 and dedicat
 
 <div class='tableauPlaceholder' style='width: 1020px; height: 1033px;'>
   <noscript>
-    <a href='http:&#47;&#47;openknowledge.ie&#47;projects&#47;open-hospital-waiting-list&#47;'><img alt='Open Hospital Waiting List ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Op&#47;OpenHospitalWaitingList&#47;HospitalsWaitingList&#47;1_rss.png' style='border: none' /></a>
+    <a href='http://openknowledge.ie/projects/open-hospital-waiting-list/'><img alt='Open Hospital Waiting List ' src='https://public.tableau.com/static/images/Op/OpenHospitalWaitingList/HospitalsWaitingList/1_rss.png' style='border: none' /></a>
   </noscript>
 </div>
 
