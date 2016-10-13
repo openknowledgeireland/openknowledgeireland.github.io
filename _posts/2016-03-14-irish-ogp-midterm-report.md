@@ -38,7 +38,7 @@ tags:
   - Paul Maassen
 ---
 <p style="text-align: right;">
-  <em><a href="/wp-content/uploads/2016/03/OGPIrl_banner_light.png" rel="attachment wp-att-1632"><img class="aligncenter wp-image-1632" src="/wp-content/uploads/2016/03/OGPIrl_banner_light.png" alt="ogp ireland" width="968" height="285" srcset="https://openknowledge.ie/wp-content/uploads/2016/03/OGPIrl_banner_light.png 900w, https://openknowledge.ie/wp-content/uploads/2016/03/OGPIrl_banner_light-300x88.png 300w, https://openknowledge.ie/wp-content/uploads/2016/03/OGPIrl_banner_light-768x226.png 768w" sizes="(max-width: 968px) 100vw, 968px" /></a></em>
+  <em><a href="/wp-content/uploads/2016/03/OGPIrl_banner_light.png" rel="attachment wp-att-1632"><img class="aligncenter wp-image-1632" src="/wp-content/uploads/2016/03/OGPIrl_banner_light.png" alt="ogp ireland" width="968" height="285" srcset="wp-content/uploads/2016/03/OGPIrl_banner_light.png 900w, https://openknowledge.ie/wp-content/uploads/2016/03/OGPIrl_banner_light-300x88.png 300w, https://openknowledge.ie/wp-content/uploads/2016/03/OGPIrl_banner_light-768x226.png 768w" sizes="(max-width: 968px) 100vw, 968px" /></a></em>
 </p>
 
 <p style="text-align: right;">

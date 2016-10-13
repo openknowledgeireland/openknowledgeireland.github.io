@@ -42,7 +42,7 @@ guid: http://irl.okfn.org/?page_id=60
         <p>
           <!-- Carousel ================================================== -->
           
-          <br /> <a target="_blank" href="https://openknowledge.ie/"><img src="wp-content/uploads/2014/05/okirl.jpg" style="float:right" alt="OKF Ireland" width="300" height="200" /></a><br /> <!-- Carousel ================================================== -->
+          <br /> <a target="_blank" href=""><img src="wp-content/uploads/2014/05/okirl.jpg" style="float:right" alt="OKF Ireland" width="300" height="200" /></a><br /> <!-- Carousel ================================================== -->
         </p>
         
         <h3 style="clear: left;">

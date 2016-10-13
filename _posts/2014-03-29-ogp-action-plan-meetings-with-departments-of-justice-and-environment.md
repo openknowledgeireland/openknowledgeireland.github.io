@@ -32,7 +32,7 @@ The group of citizens and civil society organisation involved in collaborating o
 
 &nbsp;
 
-[<img class="size-full wp-image-189 alignleft" alt="OGP_OKFirl Logo" src="https://www.openknowledge.ie/wp-content/uploads/2014/03/OGP_OKFirl-Logo.jpg" width="345" height="78" srcset="https://openknowledge.ie/wp-content/uploads/2014/03/OGP_OKFirl-Logo.jpg 345w, https://openknowledge.ie/wp-content/uploads/2014/03/OGP_OKFirl-Logo-300x67.jpg 300w" sizes="(max-width: 345px) 100vw, 345px" />](https://twitter.com/OKFirl)
+[<img class="size-full wp-image-189 alignleft" alt="OGP_OKFirl Logo" src="https://www.openknowledge.ie/wp-content/uploads/2014/03/OGP_OKFirl-Logo.jpg" width="345" height="78" srcset="wp-content/uploads/2014/03/OGP_OKFirl-Logo.jpg 345w, https://openknowledge.ie/wp-content/uploads/2014/03/OGP_OKFirl-Logo-300x67.jpg 300w" sizes="(max-width: 345px) 100vw, 345px" />](https://twitter.com/OKFirl)
 
 &nbsp;
 

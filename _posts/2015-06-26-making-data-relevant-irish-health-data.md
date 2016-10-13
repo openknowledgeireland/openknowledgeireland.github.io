@@ -59,7 +59,7 @@ Open Knowledge Ireland and OpenStreetMaps Ireland  call on Brendan Howlin, Mini
 
 ## **Maker Party Round-Up**
 
-[<img class="aligncenter size-full wp-image-1535" src="/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35.png" alt="Screen Shot 2015-06-26 at 10.23.35" width="1104" height="472" srcset="https://openknowledge.ie/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35.png 1104w, https://openknowledge.ie/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35-300x128.png 300w, https://openknowledge.ie/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35-1024x437.png 1024w" sizes="(max-width: 1104px) 100vw, 1104px" />](http://openknowledge.ie/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35.png)
+[<img class="aligncenter size-full wp-image-1535" src="/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35.png" alt="Screen Shot 2015-06-26 at 10.23.35" width="1104" height="472" srcset="wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35.png 1104w, https://openknowledge.ie/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35-300x128.png 300w, https://openknowledge.ie/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35-1024x437.png 1024w" sizes="(max-width: 1104px) 100vw, 1104px" />](http://openknowledge.ie/wp-content/uploads/2015/06/Screen-Shot-2015-06-26-at-10.23.35.png)
 
 On Saturday, 13 June 2015, a diverse collection of twenty publicly-minded enthusiasts got together to explore and demonstrate the benefits of public data made open and usable.
 

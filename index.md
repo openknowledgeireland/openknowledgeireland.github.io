@@ -24,7 +24,7 @@ infinite_meta_show_flex_slideshow:
 infinite_meta_show_title:
   - Yes
 ---
-<img class="wp-image-299 size-medium" src="/wp-content/uploads/2014/05/openKNOWLEDGE-300x200.jpg" alt="openKNOWLEDGE" width="300" height="200" srcset="https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE-300x200.jpg 300w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE-1024x682.jpg 1024w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="wp-image-299 size-medium" src="/wp-content/uploads/2014/05/openKNOWLEDGE-300x200.jpg" alt="openKNOWLEDGE" width="300" height="200" srcset="wp-content/uploads/2014/05/openKNOWLEDGE-300x200.jpg 300w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE-1024x682.jpg 1024w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Open Knowledge Ireland is part of the global Open Knowledge non-profit network. Our mission is **to open up all essential public interest information and see it used to create insight that drives change**.  We are passionate about openness, and using advocacy, technology and training to unlock data to enable people to create, manage and share knowledge.
 
@@ -32,7 +32,7 @@ The Open Knowledge (OK) is a non-profit organisation founded in 2004 and dedicat
 
 ## What do we do?
 
-[<img class="wp-image-303 size-medium" src="/wp-content/uploads/2014/05/openKNOWLEDGE5-300x200.jpg" alt="openKNOWLEDGE5" width="300" height="200" srcset="https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5-300x200.jpg 300w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5-1024x682.jpg 1024w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />](http://openknowledge.ie/events/)
+[<img class="wp-image-303 size-medium" src="/wp-content/uploads/2014/05/openKNOWLEDGE5-300x200.jpg" alt="openKNOWLEDGE5" width="300" height="200" srcset="wp-content/uploads/2014/05/openKNOWLEDGE5-300x200.jpg 300w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5-1024x682.jpg 1024w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />](http://openknowledge.ie/events/)
 
 [Hackathons, meetups, lobbying for openness, teaching, coding, &#8230;](http://openknowledge.ie/events/ "Events")
 
@@ -47,7 +47,7 @@ The Open Knowledge (OK) is a non-profit organisation founded in 2004 and dedicat
 </div>
 
   * <a href="/projects/open-charity-data/" target="_blank">Open Charity Data</a> 
-      * [<img class="wp-image-299 size-medium" src="/wp-content/uploads/2014/05/openKNOWLEDGE-300x200.jpg" alt="openKNOWLEDGE" width="300" height="200" srcset="https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE-300x200.jpg 300w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE-1024x682.jpg 1024w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+      * [<img class="wp-image-299 size-medium" src="/wp-content/uploads/2014/05/openKNOWLEDGE-300x200.jpg" alt="openKNOWLEDGE" width="300" height="200" srcset="wp-content/uploads/2014/05/openKNOWLEDGE-300x200.jpg 300w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE-1024x682.jpg 1024w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Open Knowledge Ireland is part of the global Open Knowledge non-profit network. Our mission is **to open up all essential public interest information and see it used to create insight that drives change**.  We are passionate about openness, and using advocacy, technology and training to unlock data to enable people to create, manage and share knowledge.
 
@@ -55,7 +55,7 @@ The Open Knowledge (OK) is a non-profit organisation founded in 2004 and dedicat
 
 ## What do we do?
 
-[<img class="wp-image-303 size-medium" src="/wp-content/uploads/2014/05/openKNOWLEDGE5-300x200.jpg" alt="openKNOWLEDGE5" width="300" height="200" srcset="https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5-300x200.jpg 300w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5-1024x682.jpg 1024w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />](http://openknowledge.ie/events/)
+[<img class="wp-image-303 size-medium" src="/wp-content/uploads/2014/05/openKNOWLEDGE5-300x200.jpg" alt="openKNOWLEDGE5" width="300" height="200" srcset="wp-content/uploads/2014/05/openKNOWLEDGE5-300x200.jpg 300w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5-1024x682.jpg 1024w, https://openknowledge.ie/wp-content/uploads/2014/05/openKNOWLEDGE5.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />](http://openknowledge.ie/events/)
 
 [Hackathons, meetups, lobbying for openness, teaching, coding, &#8230;](http://openknowledge.ie/events/ "Events")
 
@@ -96,7 +96,7 @@ The Open Knowledge (OK) is a non-profit organisation founded in 2004 and dedicat
 
 ## Donate
 
-  * <a href="https://openknowledge.ie/donate/" target="_blank">Please support our work</a>
+  * <a href="donate/" target="_blank">Please support our work</a>
 
 ## Contact us
 

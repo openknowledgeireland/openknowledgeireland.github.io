@@ -32,7 +32,7 @@ tags:
   - Salua Nassabay
   - Tracey P. Lauriault
 ---
-##### [<img class="aligncenter size-full wp-image-1274" src="/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png" alt="Screen Shot 2014-09-04 at 13.27.58" width="1403" height="588" srcset="https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png 1403w, https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58-300x125.png 300w, https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58-1024x429.png 1024w" sizes="(max-width: 1403px) 100vw, 1403px" />](http://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png)
+##### [<img class="aligncenter size-full wp-image-1274" src="/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png" alt="Screen Shot 2014-09-04 at 13.27.58" width="1403" height="588" srcset="wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png 1403w, https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58-300x125.png 300w, https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58-1024x429.png 1024w" sizes="(max-width: 1403px) 100vw, 1403px" />](http://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png)
 
 ##### **When****:** Sat, 26th of July, 2014
 

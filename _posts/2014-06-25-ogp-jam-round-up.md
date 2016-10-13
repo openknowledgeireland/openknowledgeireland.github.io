@@ -27,7 +27,7 @@ tags:
   - Open Government
   - Open Knowledge Ireland
 ---
-[<img class="alignleft size-full wp-image-741" src="/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02.png" alt="Screen Shot 2014-06-25 at 14.51.02" width="1419" height="585" srcset="https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02.png 1419w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02-300x123.png 300w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02-1024x422.png 1024w" sizes="(max-width: 1419px) 100vw, 1419px" />](http://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02.png)
+[<img class="alignleft size-full wp-image-741" src="/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02.png" alt="Screen Shot 2014-06-25 at 14.51.02" width="1419" height="585" srcset="wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02.png 1419w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02-300x123.png 300w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02-1024x422.png 1024w" sizes="(max-width: 1419px) 100vw, 1419px" />](http://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.51.02.png)
 
 &nbsp;
 
@@ -49,7 +49,7 @@ Over the course of the Jam, our volunteers concentrated on three key areas of Ir
 
 For example: [Establishment of best practice standards for Open Data](https://210164876428a024cae5d388f27053342da38b80.googledrive.com/host/0B1nGTr6XeR5aa2RqVkJNNDc3UlU/OpenData.html)
 
-[<img class="alignleft size-full wp-image-737" src="/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.34.09.png" alt="Screen Shot 2014-06-25 at 14.34.09" width="943" height="378" srcset="https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.34.09.png 943w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.34.09-300x120.png 300w" sizes="(max-width: 943px) 100vw, 943px" />](http://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.34.09.png)
+[<img class="alignleft size-full wp-image-737" src="/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.34.09.png" alt="Screen Shot 2014-06-25 at 14.34.09" width="943" height="378" srcset="wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.34.09.png 943w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.34.09-300x120.png 300w" sizes="(max-width: 943px) 100vw, 943px" />](http://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.34.09.png)
 
 &nbsp;
 
@@ -62,13 +62,13 @@ As per OGP guidelines, Action Plans should be written in plain language with min
   
 Imagine going from this:
 
-[<img class="wp-image-738 aligncenter" src="/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.39.12.png" alt="Screen Shot 2014-06-25 at 14.39.12" width="592" height="560" srcset="https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.39.12.png 535w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.39.12-300x283.png 300w" sizes="(max-width: 592px) 100vw, 592px" />](http://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.39.12.png)
+[<img class="wp-image-738 aligncenter" src="/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.39.12.png" alt="Screen Shot 2014-06-25 at 14.39.12" width="592" height="560" srcset="wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.39.12.png 535w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.39.12-300x283.png 300w" sizes="(max-width: 592px) 100vw, 592px" />](http://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.39.12.png)
 
 <p style="text-align: left;">
    To this (actual content! &#8211; and this is only a very simple <a href="https://210164876428a024cae5d388f27053342da38b80.googledrive.com/host/0B1nGTr6XeR5aa2RqVkJNNDc3UlU/Trust.html" target="_blank">prototype</a>!!):
 </p>
 
-[<img class="wp-image-739 aligncenter" src="/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.43.03.png" alt="Screen Shot 2014-06-25 at 14.43.03" width="844" height="697" srcset="https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.43.03.png 739w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.43.03-300x247.png 300w" sizes="(max-width: 844px) 100vw, 844px" />](http://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.43.03.png)The community members who attended the OGP Jam created this model and to a large extent  filled it with possible values. In many cases the time-frames, partners, goals, challenges, etc. for each commitment are still unknown. But we have provided this model to the Government Reform Unit looking after the OGP Action Plan as a recommendation on how to make the Action Plan more accessible to everyone.
+[<img class="wp-image-739 aligncenter" src="/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.43.03.png" alt="Screen Shot 2014-06-25 at 14.43.03" width="844" height="697" srcset="wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.43.03.png 739w, https://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.43.03-300x247.png 300w" sizes="(max-width: 844px) 100vw, 844px" />](http://openknowledge.ie/wp-content/uploads/2014/06/Screen-Shot-2014-06-25-at-14.43.03.png)The community members who attended the OGP Jam created this model and to a large extent  filled it with possible values. In many cases the time-frames, partners, goals, challenges, etc. for each commitment are still unknown. But we have provided this model to the Government Reform Unit looking after the OGP Action Plan as a recommendation on how to make the Action Plan more accessible to everyone.
 
 Our work will continue throughout the implementation phase of the Action Plan and you can follow our progress here (<http://openknowledge.ie/ogp-action-plan/>).
   
