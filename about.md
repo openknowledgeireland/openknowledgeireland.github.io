@@ -11,6 +11,7 @@ infinite_meta_show_flex_slideshow:
   - Yes
 infinite_meta_show_title:
   - Yes
+permalink: /about/
 ---
 ### **<a id="whoweare"></a>Who we are and <a id="doing"></a>what we are doing?**
 
