@@ -40,7 +40,7 @@ infinite_meta_show_title:
 
 ### Charity 2012 Summary
 
-This table represents just a few of the columns from the Charity Summary dataset. We hope you will be interested to visit our [Datasets (Open Data)](http://openknowledge.ie/chy-10-datasets/) page, download the datasets, build improved visualizations and help us to extract more data from the Annual Reports.
+This table represents just a few of the columns from the Charity Summary dataset. We hope you will be interested to visit our [Datasets (Open Data)](/chy-10-datasets/) page, download the datasets, build improved visualizations and help us to extract more data from the Annual Reports.
 
 <div id="tbl">
 </div>

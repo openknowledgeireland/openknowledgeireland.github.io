@@ -32,7 +32,7 @@ tags:
   - Salua Nassabay
   - Tracey P. Lauriault
 ---
-##### [<img class="aligncenter size-full wp-image-1274" src="/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png" alt="Screen Shot 2014-09-04 at 13.27.58" width="1403" height="588" srcset="wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png 1403w, https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58-300x125.png 300w, https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58-1024x429.png 1024w" sizes="(max-width: 1403px) 100vw, 1403px" />](http://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png)
+##### [<img class="aligncenter size-full wp-image-1274" src="/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png" alt="Screen Shot 2014-09-04 at 13.27.58" width="1403" height="588" srcset="wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png 1403w, https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58-300x125.png 300w, https://openknowledge.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58-1024x429.png 1024w" sizes="(max-width: 1403px) 100vw, 1403px" />](/wp-content/uploads/2014/09/Screen-Shot-2014-09-04-at-13.27.58.png)
 
 ##### **When****:** Sat, 26th of July, 2014
 
@@ -54,7 +54,7 @@ tags:
 
 ##### **… and here is how it all went down on Saturday 26th July 2014 at Tcube:**
 
-The day started with a welcome speech by our conveners and hosts Denis Parfenov and Flora Fleisher of Open Knowledge Ireland.  A [short presentation](http://openknowledge.ie/welcome-to-the-open-charity-data-day/) was given by Flora Fleischer.
+The day started with a welcome speech by our conveners and hosts Denis Parfenov and Flora Fleisher of Open Knowledge Ireland.  A [short presentation](/welcome-to-the-open-charity-data-day/) was given by Flora Fleischer.
 
 Adrian O&#8217;Flynn, our Charities Subject Matter Specialist, and the person who inspired the event, introduced the topic of spending for charities in Ireland. He highlighted recent issues portrayed in the media and explained why it would be useful for the public to be able to compare charities based on their financial reports.  Here is [his presentation.](http://www.slideshare.net/AdrianOFlynn/solving-irish-charities-transparency-problem)
 
@@ -103,7 +103,7 @@ It is a small sample, but this illustrates the power of open data.
 
 &nbsp;
 
-The dataset that was generated on the HackDay, and which is being continuously developed, can be found on the  [Open Knowledge Ireland website.](http://openknowledge.ie/chy-10-datasets/)
+The dataset that was generated on the HackDay, and which is being continuously developed, can be found on the  [Open Knowledge Ireland website.](/chy-10-datasets/)
 
 Finally a **[first draft of a future website](http://app.uxpin.com/4f51c139aa0ded3ea77e46eada4a3f63193871aa/10171224#4)** was created, where charity data can be be displayed in an easy to understand fashion.
 

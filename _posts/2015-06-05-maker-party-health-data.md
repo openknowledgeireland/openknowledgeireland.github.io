@@ -23,7 +23,7 @@ Venue: **T-Cube Fleetstreet** (next to Palace Bar)
   
 Registration: <https://ti.to/open-knowledge-ireland/maker-party-hwl>
 
-We will be working together on our [Open Hospital Waiting List Project](http://openknowledge.ie/projects/open-hospital-waiting-list/ "Open Hospital Waiting List") to:
+We will be working together on our [Open Hospital Waiting List Project](/projects/open-hospital-waiting-list/ "Open Hospital Waiting List") to:
 
   * increase transparency and accessibility of hospital data (i.e. waiting lists) through data liberation;
   * apply data to Open Street Map (OSM);

@@ -46,11 +46,11 @@ Open Data can help make this easier for charities&#8217; donors.
 
 **What is open data?**
 
-“A piece of data or content is open if anyone is free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and/or share-alike.” (more [here](http://openknowledge.ie/open-data/))
+“A piece of data or content is open if anyone is free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and/or share-alike.” (more [here](/open-data/))
 
 ### Background
 
-One sunny day last July a group of volunteers [came together](http://openknowledge.ie/first-irish-charity-data-hackday/) to compile an open dataset for €640 million of 2012 charity data from 25 charities. We placed it in this visualization.[(_https://openspending.org/ie\_charity\_exp/views/charity-expenditure-2012-treebubble-chart#/%7E/total_)](https://openspending.org/ie_charity_exp/views/charity-expenditure-2012-treebubble-chart#/%7E/total)
+One sunny day last July a group of volunteers [came together](/first-irish-charity-data-hackday/) to compile an open dataset for €640 million of 2012 charity data from 25 charities. We placed it in this visualization.[(_https://openspending.org/ie\_charity\_exp/views/charity-expenditure-2012-treebubble-chart#/%7E/total_)](https://openspending.org/ie_charity_exp/views/charity-expenditure-2012-treebubble-chart#/%7E/total)
 
 ### [Context](https://okfirl.hackpad.com/Open-Charity-HackDay-3tMoxP42U8M)
 

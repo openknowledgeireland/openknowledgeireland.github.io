@@ -17,17 +17,17 @@ tags:
   - Open Data Ireland
   - open data wish list
 ---
-This post follows up on a [This post follows up on a](http://openknowledge.ie/?p=490) made to the government to open up high impact public data sets for the benefit of Ireland&#8217;s citizens and economy on April 14th, 2014.
+This post follows up on a [This post follows up on a](/?p=490) made to the government to open up high impact public data sets for the benefit of Ireland&#8217;s citizens and economy on April 14th, 2014.
 
 The &#8216;Open Data Wishlist&#8217; of high impact data sets was crowdsourced to be of particular relevance to the Irish public by Open Knowledge Ireland. The wish list was delivered to Stefan Decker (Insight Centre for Data Analytics) and Deirdre Lee (Insight Centre for Data Analytics/Derilinx) who requested the assessment be included in their work on the Irish government&#8217;s [Open data strategy](http://www.per.gov.ie/minister-howlin-launches-open-data-initiative/) for which they won a tender in 2014.
 
-The submission was made by the public on April 14th, 2014. ([Link](http://openknowledge.ie/?p=490)) This blog post is to highlight that,
+The submission was made by the public on April 14th, 2014. ([Link](/?p=490)) This blog post is to highlight that,
 
 **Over a year after the requested &#8216;Open Data Wishlist&#8217; was delivered, apart from CSO&#8217;s data, not one of the data sets identified has been  published in an open format or under an open licence.**
 
 Worse still, there is no timeline to do so! This is worrying because Ireland seems to be falling behind other countries such as the UK, the US, Canada, etc. in their efforts to fuel their economy and improve the services provided to their citizens. Equally critical, Ireland seems to be falling behind the promises it has made as part of its own &#8216;Open Data Strategy&#8217;!
 
-We realise that cultural change takes time, but making already public information, such as hospital waiting lists, available for reuse in machine readable formats should be straightforward ([Hospital Waiting List Current Example](http://openknowledge.ie/projects/open-hospital-waiting-list/)). If the government of Ireland is serious about empowering evidence-based data-driven decision-making, it needs to start complimenting good intentions with actions.
+We realise that cultural change takes time, but making already public information, such as hospital waiting lists, available for reuse in machine readable formats should be straightforward ([Hospital Waiting List Current Example](/projects/open-hospital-waiting-list/)). If the government of Ireland is serious about empowering evidence-based data-driven decision-making, it needs to start complimenting good intentions with actions.
 
 We are calling on Minister Howlin to publish a timeline for publishing these data sets in open format, in line with the promises made, with progress made in other countries and in line with the global [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex) (<https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex>).
 

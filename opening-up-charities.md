@@ -6,7 +6,7 @@ author: Ingo Keck
 layout: page
 guid: http://openknowledge.ie/?page_id=1472
 ---
-[<img class="alignnone size-full wp-image-1476" src="/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26.png" alt="Opening Up Charity Data" width="972" height="637" srcset="wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26.png 972w, https://openknowledge.ie/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26-300x196.png 300w" sizes="(max-width: 972px) 100vw, 972px" />](http://openknowledge.ie/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf)
+[<img class="alignnone size-full wp-image-1476" src="/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26.png" alt="Opening Up Charity Data" width="972" height="637" srcset="wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26.png 972w, https://openknowledge.ie/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26-300x196.png 300w" sizes="(max-width: 972px) 100vw, 972px" />](/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf)
 
 ### **Short Story – there’s a need**
 
@@ -14,14 +14,14 @@ guid: http://openknowledge.ie/?page_id=1472
   * **Donations have declined** and many charities have been forced to significantly scale back on their services
   * OK Ireland, in collaboration with volunteers from the Charity sector and from this very community of citizens **want to help reverse this trend** by converting information from annual reports and other trusted sources into an Open Data format
 
-So we organised a [Hackathon](http://openknowledge.ie/welcome-to-the-open-charity-data-day/ "Charity Hackathon") ([press release](http://openknowledge.ie/open-charity-data-hackday-july-26/ "Press Release HackDay 26-7-2014")) to open up the budget data of Irelands biggest charities, we had [lots of fun](http://openknowledge.ie/charity-data-hackday-in-pictures/ "Charity Data HackDay in Pictures") in doing so, we [opened up quite a bit of data](http://openknowledge.ie/chy-01-charity/ "Outcomes from Charity Data hackDay 26-7-2014") and are now in the tedious process of finding support in the government and in Irland&#8217;s charity representations to get enough funds and political goodwill to make our vision a reality. Unfortunately this is not easy, but you can [help us with your donation!](http://openknowledge.ie/donate/ "Donate")
+So we organised a [Hackathon](/welcome-to-the-open-charity-data-day/ "Charity Hackathon") ([press release](/open-charity-data-hackday-july-26/ "Press Release HackDay 26-7-2014")) to open up the budget data of Irelands biggest charities, we had [lots of fun](/charity-data-hackday-in-pictures/ "Charity Data HackDay in Pictures") in doing so, we [opened up quite a bit of data](/chy-01-charity/ "Outcomes from Charity Data hackDay 26-7-2014") and are now in the tedious process of finding support in the government and in Irland&#8217;s charity representations to get enough funds and political goodwill to make our vision a reality. Unfortunately this is not easy, but you can [help us with your donation!](/donate/ "Donate")
 
-  * [Casestudy: Opening Up Charity Data](http://openknowledge.ie/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf "Open Budget Data for Charities") (.pdf)
-  * [Call to Charities: Open up your data and tell people about the good things you are doing!](http://openknowledge.ie/wp-content/uploads/2014/12/OpenCharityData-FinancialOpenData1.pdf "Open Budget Data for Charities") (.pdf)
+  * [Casestudy: Opening Up Charity Data](/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf "Open Budget Data for Charities") (.pdf)
+  * [Call to Charities: Open up your data and tell people about the good things you are doing!](/wp-content/uploads/2014/12/OpenCharityData-FinancialOpenData1.pdf "Open Budget Data for Charities") (.pdf)
   * Slidedeck: [How Open Data Can Restore Trust in Charities](https://docs.google.com/presentation/d/1UsN4pxnPjuqcOZJPn4vuza4Ad9jvCPTYWBrRABS38bk/edit#slide=id.p14)
-  * [Our data so far](http://openknowledge.ie/chy-01-charity/ "Outcomes from Charity Data hackDay 26-7-2014")
-  * [Transparent Charity App](http://openknowledge.ie/openspending/ "chy-04")
-  * [The story of INKEX, or: Charity Transparency](http://openknowledge.ie/open-data-ireland-charity-transparency/ "Open Data Ireland: Charity Transparency")
+  * [Our data so far](/chy-01-charity/ "Outcomes from Charity Data hackDay 26-7-2014")
+  * [Transparent Charity App](/openspending/ "chy-04")
+  * [The story of INKEX, or: Charity Transparency](/open-data-ireland-charity-transparency/ "Open Data Ireland: Charity Transparency")
 
 ### Long story
 

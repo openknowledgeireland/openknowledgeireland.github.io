@@ -47,7 +47,7 @@ OKF Ireland is working on the following projects:
 
 ### Open Data Ireland
 
-  * [Catalysing culture and cultivating ecosystem](http://openknowledge.ie/irish-okfn-chapter-launched-at-ckan-hackathon-in-dublin/)
+  * [Catalysing culture and cultivating ecosystem](/irish-okfn-chapter-launched-at-ckan-hackathon-in-dublin/)
 
 ### Global Open Data Index 2014
 
@@ -94,7 +94,7 @@ Following on from this, a prototype charity application has been developed which
 
 ### Open Data Ireland
 
-  * [Catalysing culture and cultivating ecosystem](http://openknowledge.ie/irish-okfn-chapter-launched-at-ckan-hackathon-in-dublin/)
+  * [Catalysing culture and cultivating ecosystem](/irish-okfn-chapter-launched-at-ckan-hackathon-in-dublin/)
 
 ### Global Open Data Index 2014
 
@@ -110,11 +110,11 @@ Recent scandals in the charity sector have eroded public trust. Consequently, do
 
 Following on from this, a prototype charity application has been developed which enables citizens to quickly browse key metrics from across a number of Irish Charities and as a result make an informed choice to donate and reward charities who are open and transparent. It is hoped that this positive feedback on loop based on the principles of openness and transparency will encourage real change in attitudes and encourage people to increase their donations to deserving causes.
 
-  *](http://openknowledge.ie/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf) 
-  * [Background information](http://openknowledge.ie/opening-up-charities/ "Opening Up Charities")
+  *](/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf) 
+  * [Background information](/opening-up-charities/ "Opening Up Charities")
   * <a href="/chy-01-charity/" target="_blank">Charity Data Hack</a>
   * <a title="chy-04" href="/chy-04/" target="_blank">Charity Application</a>
-  * [Call for action (2-pages)](http://openknowledge.ie/wp-content/uploads/2014/12/OpenCharityData-FinancialOpenData1.pdf)
+  * [Call for action (2-pages)](/wp-content/uploads/2014/12/OpenCharityData-FinancialOpenData1.pdf)
 
 ### OGP Jam
 
@@ -126,7 +126,7 @@ In 2013 the Irish Government commuted to the Open Government Partnership. OKF Ir
 
   * [OGP Ireland News Flash &#8211; What&#8217;s Happening Right Now](/projects/ogp-ireland-news-flash/)
   * [Open Government Partnership Ireland &#8211; Timeline](/projects/1st-irish-ogp-action-plan/)
-  * [The Irish Action Plan in Development &#8211; OKF Ireland Keeps Track](http://openknowledge.ie/ogp-action-plan/ "OGP Action Plan")
+  * [The Irish Action Plan in Development &#8211; OKF Ireland Keeps Track](/ogp-action-plan/ "OGP Action Plan")
   * [Latest Editions of OGP Action Plan Drafts](/projects/latest-editions/)
 
 ### 

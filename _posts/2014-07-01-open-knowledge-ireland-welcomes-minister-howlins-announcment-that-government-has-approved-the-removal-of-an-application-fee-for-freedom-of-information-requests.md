@@ -19,15 +19,15 @@ tags:
 ---
 ** 1st July 2014**
 
-[<img class="alignleft wp-image-630 size-full" src="/wp-content/uploads/2014/05/okirlogo1.png" alt="okirlogo" width="204" height="89" />](http://openknowledge.ie/wp-content/uploads/2014/05/okirlogo1.png)
+[<img class="alignleft wp-image-630 size-full" src="/wp-content/uploads/2014/05/okirlogo1.png" alt="okirlogo" width="204" height="89" />](/wp-content/uploads/2014/05/okirlogo1.png)
 
-#### **<span style="color: #000000;">Open Knowledge Ireland &#8211; dedicated to promoting open data and open knowledge for citizens</span> ([openknowledge.ie](http://openknowledge.ie/about/#doing))**
+#### **<span style="color: #000000;">Open Knowledge Ireland &#8211; dedicated to promoting open data and open knowledge for citizens</span> ([openknowledge.ie](/about/#doing))**
 
 &nbsp;
 
 Open Knowledge Ireland welcomes today’s <a href="http://www.per.gov.ie/minister-howlin-announces-government-approval-for-removal-of-foi-application-fee/" target="_blank">announcement</a> by the Minister that the suggested reforms to the FOI fees regime includes the removal of the €15 application fee for non-personal requests.
 
-On April 10th 2014 Open Knowledge Ireland together with a squad of Freedom of Information advocates for Ireland wrote an [Open Letter to Minister Brendan Howlin](http://openknowledge.ie/open-letter-calling-for-abolishing-foiaie-fees/) asking to leverage the Government’s commitment to the Open Government Partnership as an opportunity to remove fees at all stages of FOI and AIE requests and appeals. The letter was signed by 74 signatories urging the Minister to consider the points outlined for his upcoming FOI bill.
+On April 10th 2014 Open Knowledge Ireland together with a squad of Freedom of Information advocates for Ireland wrote an [Open Letter to Minister Brendan Howlin](/open-letter-calling-for-abolishing-foiaie-fees/) asking to leverage the Government’s commitment to the Open Government Partnership as an opportunity to remove fees at all stages of FOI and AIE requests and appeals. The letter was signed by 74 signatories urging the Minister to consider the points outlined for his upcoming FOI bill.
 
 On May 7th, at [the Civil Society Day](http://irl.okfn.org/files/2014/05/agenda1.pdf), which was held on the eve of the OGP Europe regional meeting, the upfront fees charged in Ireland for submission of FOI requests were brought to the attention of [120 civil society and government representatives](https://www.flickr.com/photos/123736148@N04/sets/72157644610151071/) from 30 countries.
 

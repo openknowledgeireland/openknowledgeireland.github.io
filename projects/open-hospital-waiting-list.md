@@ -10,7 +10,7 @@ Over the past few months Open Knowledge Ireland has scraped the data from these 
 
 Open Knowledge Ireland called on Leo Varadkar, Health Minister and Richard Corbridge, Chief Information Officer for the Health Service Executive in Ireland, to support the efforts of the Open Data Community to increase the usefulness of publicly available Health Sector Data, by ensuring its publication in an <a href="http://opendefinition.org/" target="_blank">open data format</a>.
 
-**Help us to open up more data by [supporting us](http://openknowledge.ie/donate/ "Donate")
+**Help us to open up more data by [supporting us](/donate/ "Donate")
   
 ** 
   

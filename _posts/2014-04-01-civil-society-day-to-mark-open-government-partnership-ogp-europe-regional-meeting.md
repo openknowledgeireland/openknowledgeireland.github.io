@@ -9,7 +9,7 @@ permalink: /civil-society-day-to-mark-open-government-partnership-ogp-europe-reg
 categories:
   - Events
 ---
-On the 7th of May, the [Open Knowledge Ireland](http://openknowledge.ie/) in collaboration with the [Open Government Partnership](http://www.opengovpartnership.org/) and other civil society members and organisations are organising a Civil Society Day. This event provides an opportunity for any member of the public, representatives of the private sector and the government to come together and engage with each other.
+On the 7th of May, the [Open Knowledge Ireland](/) in collaboration with the [Open Government Partnership](http://www.opengovpartnership.org/) and other civil society members and organisations are organising a Civil Society Day. This event provides an opportunity for any member of the public, representatives of the private sector and the government to come together and engage with each other.
 
 <h3 style="text-align: center;">
   <a href="https://ti.to/open-data-ireland/OGP-civil-society-day-Dublin-2014">Register here for the Civil Society Day!</a>

@@ -9,7 +9,7 @@ permalink: /open-data-in-half-a-day/
 categories:
   - Events
 ---
-On 10th of May, the [Open Knowledge Ireland](http://openknowledge.ie/) in collaboration with [BaleFire Global](http://www.balefireglobal.com/) is organising the free course: “Open Data in (half) a Day”; but, what is Open Data? Open data is data that can be used, reused and redistributed freely by anyone, that means data availability and access, reuse and redistribution and universal participation.
+On 10th of May, the [Open Knowledge Ireland](/) in collaboration with [BaleFire Global](http://www.balefireglobal.com/) is organising the free course: “Open Data in (half) a Day”; but, what is Open Data? Open data is data that can be used, reused and redistributed freely by anyone, that means data availability and access, reuse and redistribution and universal participation.
 
 This course aims to get you up to speed with latest developments in open data and its significance. Anyone who is interested in open data and wants to know more about this subject can be part of this course which is designed to get started with discovering and using open data and understand the skills and processes required to make it work for you and your organisation.
 

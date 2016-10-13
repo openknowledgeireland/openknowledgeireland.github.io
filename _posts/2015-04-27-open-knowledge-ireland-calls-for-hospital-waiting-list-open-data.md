@@ -49,6 +49,6 @@ Open Knowledge Ireland’s Denis Parfenov, commented: ‘_In May, the government
 
 **Note for Editor:**
 
-Open Knowledge Ireland ([https://openknowledge.ie/](http://openknowledge.ie/)) is part of the global Open Knowledge non-profit network. OK are people passionate about openness, and using advocacy, technology and training to unlock data to enable people to create, manage and share knowledge.
+Open Knowledge Ireland ([https://openknowledge.ie/](/)) is part of the global Open Knowledge non-profit network. OK are people passionate about openness, and using advocacy, technology and training to unlock data to enable people to create, manage and share knowledge.
 
 The Open Knowledge (<a href="https://okfn.org/" target="_blank">https://okfn.org/</a>) is a non-profit organisation founded in 2004 and dedicated to promoting open data and open content in all their forms – including government data, publicly funded research and public domain cultural content.

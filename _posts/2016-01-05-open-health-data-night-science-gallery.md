@@ -31,7 +31,7 @@ This meetup will be facilitated by [Eugene Eichelberger](https://twitter.com/gei
 Guest speakers and panelists include:
 
   * [Caroline Carswell](https://twitter.com/CazCarswell), founder of [Sound Advice](http://www.soundadvice.pro)
-  * [Adrian Corcoran](https://twitter.com/corcoran_ad), Open Knowledge Ireland [Project](http://openknowledge.ie/projects/open-hospital-waiting-list/) Lead
+  * [Adrian Corcoran](https://twitter.com/corcoran_ad), Open Knowledge Ireland [Project](/projects/open-hospital-waiting-list/) Lead
   * [Richard Corbridge](https://twitter.com/R1chardatron/status/684321303264915456), CIO for the Health Service Ireland
 
 The event is streamed and archived on <https://plus.google.com/events/cmrsrp1mepeu0fduc17ah8ie4hg>

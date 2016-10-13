@@ -21,7 +21,7 @@ The idea for this workshop is to conceive 5+ real life examples of Open Data in
 At this event we will
 
   * Look at the progress Ireland has made regarding open data in availability for re-use in the last year
-  * Present the Open Charity Data [project](http://openknowledge.ie/chy-04/), to mark potential projects, to identify obstacles and plan ways around then
+  * Present the Open Charity Data [project](/chy-04/), to mark potential projects, to identify obstacles and plan ways around then
   * To develop a working plan for the next 12 month
 
 We are inviting all interested groups for open collaboration on moving this idea forward.
