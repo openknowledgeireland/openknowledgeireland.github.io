@@ -24,7 +24,7 @@ infinite_meta_show_title:
   <span style="font-weight: bold; color: #000000;">Civic groups join together to open up charity data</span>
 </h2>
 
-<span style="font-weight: bold; color: #000000;"><span class="aBn" tabindex="0" data-term="goog_1704855139"><span class="aQJ">July 26th</span></span>, Dublin, Ireland: </span><span style="color: #000000;">A group of civic innovators and activists, along with <a style="color: #1155cc;" href="http://openknowledge.ie/" target="_blank">Open Knowledge Ireland</a>, are joining forces to open up charity data in Ireland.</span>
+<span style="font-weight: bold; color: #000000;"><span class="aBn" tabindex="0" data-term="goog_1704855139"><span class="aQJ">July 26th</span></span>, Dublin, Ireland: </span><span style="color: #000000;">A group of civic innovators and activists, along with <a style="color: #1155cc;" href="/" target="_blank">Open Knowledge Ireland</a>, are joining forces to open up charity data in Ireland.</span>
 
 <p dir="ltr" style="color: #222222;">
   <span style="font-weight: bold; color: #000000;">The objective is to help grow and increase the efficiency of the Irish charity market through data transparency and visualisation.</span>
@@ -34,7 +34,7 @@ infinite_meta_show_title:
   <span style="color: #000000;">&#8220;</span><span style="font-style: italic; color: #000000;">There is actually a lot of strong, audited, published data in the charity sector (it&#8217;s actually been quite heartening reading it), it&#8217;s just so difficult to find and is presented in financial terms.</span><span style="color: #000000;">&#8221; (Adrian O&#8217;Flynn, Concern Worldwide).</span>
 </p>
 
-**<a style="color: #1155cc;" href="http://openknowledge.ie/" target="_blank">Open Knowledge Ireland</a>**<span style="color: #000000;"> is a non-partisan non-profit organisation. We help build tools, develop skills and liberate information to empower everyone to make better-informed evidence-based choices about  how we live, what we buy and who gets our vote.</span>
+**<a style="color: #1155cc;" href="/" target="_blank">Open Knowledge Ireland</a>**<span style="color: #000000;"> is a non-partisan non-profit organisation. We help build tools, develop skills and liberate information to empower everyone to make better-informed evidence-based choices about  how we live, what we buy and who gets our vote.</span>
 
 <h4 dir="ltr" style="color: #222222;">
   <strong><span style="color: #000000;">This hackday, involving the larger community in a joint effort, will lay a foundation for:</span></strong>
@@ -77,11 +77,11 @@ infinite_meta_show_title:
 </p>
 
 <p dir="ltr" style="color: #222222;">
-  <a style="color: #1155cc;" href="http://openknowledge.ie/projects/" target="_blank">http://openknowledge.ie/</a>
+  <a style="color: #1155cc;" href="/projects/" target="_blank">http://openknowledge.ie/</a>
 </p>
 
 <p dir="ltr" style="color: #222222;">
-  <a style="color: #1155cc;" href="http://openknowledge.ie/projects/" target="_blank">http://openknowledge.ie/<wbr />projects/</a>
+  <a style="color: #1155cc;" href="/projects/" target="_blank">http://openknowledge.ie/<wbr />projects/</a>
 </p>
 
 <p dir="ltr" style="color: #222222;">

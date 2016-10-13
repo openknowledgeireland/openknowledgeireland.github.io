@@ -13,7 +13,7 @@ tags:
   - Data Journalism
   - hackathon
 ---
-[<img class="alignnone wp-image-1394" src="http://openknowledge.ie/wp-content/uploads/2015/03/B-7WOTRWkAE3cEh.jpg-large-300x111.jpeg" alt="Kosmopolis" width="425" height="157" srcset="https://openknowledge.ie/wp-content/uploads/2015/03/B-7WOTRWkAE3cEh.jpg-large-300x111.jpeg 300w, https://openknowledge.ie/wp-content/uploads/2015/03/B-7WOTRWkAE3cEh.jpg-large.jpeg 850w" sizes="(max-width: 425px) 100vw, 425px" />](http://kosmopolis.cccb.org/en/el-festival/presentacio-k15/)
+[<img class="alignnone wp-image-1394" src="/wp-content/uploads/2015/03/B-7WOTRWkAE3cEh.jpg-large-300x111.jpeg" alt="Kosmopolis" width="425" height="157" srcset="https://openknowledge.ie/wp-content/uploads/2015/03/B-7WOTRWkAE3cEh.jpg-large-300x111.jpeg 300w, https://openknowledge.ie/wp-content/uploads/2015/03/B-7WOTRWkAE3cEh.jpg-large.jpeg 850w" sizes="(max-width: 425px) 100vw, 425px" />](http://kosmopolis.cccb.org/en/el-festival/presentacio-k15/)
 
 [Kosmopolis15](http://kosmopolis.cccb.org/en/el-festival/presentacio-k15/), the festival of amplified literatur, hosts a [Data Journalism Hackathon](https://karmapeiro.wordpress.com/2015/03/03/hackathon-de-periodismo-de-datos-en-el-k15-periodismodatos-okfn-es/) in the CCCB, Barcelona from 18th till 21st of March, organised by CCCB itself and [OKF Spain](http://okfn.es).
 

@@ -55,7 +55,7 @@ OKF Ireland is working on the following projects:
 
 ### Open Access Ireland
 
-  *  <a href="http://openknowledge.ie/open-access-in-ireland/" target="_blank">Evaluating availability of research outputs without restrictions</a>
+  *  <a href="/open-access-in-ireland/" target="_blank">Evaluating availability of research outputs without restrictions</a>
 
 ### Open Charity Data (Charity Data Hack)
 
@@ -102,7 +102,7 @@ Following on from this, a prototype charity application has been developed which
 
 ### Open Access Ireland
 
-  *  <a href="http://openknowledge.ie/open-access-in-ireland/" target="_blank">Evaluating availability of research outputs without restrictions</a>
+  *  <a href="/open-access-in-ireland/" target="_blank">Evaluating availability of research outputs without restrictions</a>
 
 ### Open Charity Data (Charity Data Hack)
 
@@ -112,13 +112,13 @@ Following on from this, a prototype charity application has been developed which
 
   *](http://openknowledge.ie/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf) 
   * [Background information](http://openknowledge.ie/opening-up-charities/ "Opening Up Charities")
-  * <a href="http://openknowledge.ie/chy-01-charity/" target="_blank">Charity Data Hack</a>
-  * <a title="chy-04" href="http://openknowledge.ie/chy-04/" target="_blank">Charity Application</a>
+  * <a href="/chy-01-charity/" target="_blank">Charity Data Hack</a>
+  * <a title="chy-04" href="/chy-04/" target="_blank">Charity Application</a>
   * [Call for action (2-pages)](http://openknowledge.ie/wp-content/uploads/2014/12/OpenCharityData-FinancialOpenData1.pdf)
 
 ### OGP Jam
 
-  * <a href="http://openknowledge.ie/ogp-jam-round-up/" target="_blank">Making 1st OGP Action Plan comprehensible</a>
+  * <a href="/ogp-jam-round-up/" target="_blank">Making 1st OGP Action Plan comprehensible</a>
 
 ### Ireland&#8217;s Action Plan for Open Data & Open Government (OGP Action Plan)
 

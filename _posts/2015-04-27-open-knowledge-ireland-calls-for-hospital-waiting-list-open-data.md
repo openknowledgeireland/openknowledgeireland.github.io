@@ -30,7 +30,7 @@ This March, over 184,000 people were waiting over six months for their first app
 
 The National Treatment Purchase Fund currently publishes its Out-Patient Waiting list and In-patient/Day Case Waiting list reports in PDF format which makes them impossible to access automatically thus limiting their usefulness.
 
-Over the past few months Open Knowledge Ireland has scraped the data from these NTPF lists and created a dataset of easily accessible information. The datasets are available <a href="http://openknowledge.ie/projects/open-hospital-waiting-list/" target="_blank">here</a> and clearly show that the longest waiting lists are in the areas of Otolaryngology, Orthopaedics, Opthamology and General Surgery.
+Over the past few months Open Knowledge Ireland has scraped the data from these NTPF lists and created a dataset of easily accessible information. The datasets are available <a href="/projects/open-hospital-waiting-list/" target="_blank">here</a> and clearly show that the longest waiting lists are in the areas of Otolaryngology, Orthopaedics, Opthamology and General Surgery.
 
 Open Knowledge Ireland believes that if the NTPF begins publishing datasets in an accessible way, then this can act as a catalyst to encourage other agencies to make their publicly available data open.  Adrian Corcoran (Open Knowledge Ireland), commented: _‘We would like to replicate the NTPF pilot by building a network of &#8220;projects&#8221; which each tackle a specific area of publicly available healthcare data and then ensure that these islands of data can be crosslinked for increased transparency.&#8217;_
 

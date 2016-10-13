@@ -19,7 +19,7 @@ tags:
 ---
 ** 1st July 2014**
 
-[<img class="alignleft wp-image-630 size-full" src="http://openknowledge.ie/wp-content/uploads/2014/05/okirlogo1.png" alt="okirlogo" width="204" height="89" />](http://openknowledge.ie/wp-content/uploads/2014/05/okirlogo1.png)
+[<img class="alignleft wp-image-630 size-full" src="/wp-content/uploads/2014/05/okirlogo1.png" alt="okirlogo" width="204" height="89" />](http://openknowledge.ie/wp-content/uploads/2014/05/okirlogo1.png)
 
 #### **<span style="color: #000000;">Open Knowledge Ireland &#8211; dedicated to promoting open data and open knowledge for citizens</span> ([openknowledge.ie](http://openknowledge.ie/about/#doing))**
 

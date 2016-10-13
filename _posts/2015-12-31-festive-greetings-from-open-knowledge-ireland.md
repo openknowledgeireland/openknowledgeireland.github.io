@@ -51,7 +51,7 @@ tags:
       <table style="height: 684px;" width="793">
         <tr>
           <td>
-            While up until some months ago, commercial re-use of public data was widely prohibited, now everyone can create exciting new stuff based on the data that we all helped to pay for with our taxes, making Ireland’s public data real Open Data. We will of course continue our efforts to guide and counsel the public authorities on this topic, helping (and sometimes pushing them) forward to open up more data that is of importance for Ireland’s citizens. [<a href="http://openknowledge.ie/irish-open-data-wishlist-ireland-falling-behind-its-open-data-promises-and-international-best-practice/" target="_blank">http://openknowledge.ie/<wbr />irish-open-data-wishlist-<wbr />ireland-falling-behind-its-<wbr />open-data-promises-and-<wbr />international-best-practice/</a>]Speaking of Open Data, we must admit that we have not been successful enough with our fight re-establish trust in Ireland’s charity sector by opening up Ireland’s charity data in 2015. While we still believe that it is the wrong way to spend millions of euros in a private company to digitize and re-sell charity budget data [<a href="http://openknowledge.ie/open-data-ireland-charity-transparency/" target="_blank">http://openknowledge.ie/open-<wbr />data-ireland-charity-<wbr />transparency/</a>], instead of simply creating an open and easy to use data base for a small percentage of these costs [<a href="http://openknowledge.ie/opening-up-charities/" target="_blank">http://openknowledge.ie/<wbr />opening-up-charities/</a>], we accept that the Irish media may not seem this topic important enough to pick it up.We will continue with our efforts to open up more Irish Health Data [<a href="http://openknowledge.ie/projects/open-hospital-waiting-list/" target="_blank">http://openknowledge.ie/<wbr />projects/open-hospital-<wbr />waiting-list/</a>]. We were able to join forces with Wikimedia Ireland to bring to you a special Open Health Data evening in the science gallery this January 20th. Please join us for discussions there:</p> 
+            While up until some months ago, commercial re-use of public data was widely prohibited, now everyone can create exciting new stuff based on the data that we all helped to pay for with our taxes, making Ireland’s public data real Open Data. We will of course continue our efforts to guide and counsel the public authorities on this topic, helping (and sometimes pushing them) forward to open up more data that is of importance for Ireland’s citizens. [<a href="/irish-open-data-wishlist-ireland-falling-behind-its-open-data-promises-and-international-best-practice/" target="_blank">http://openknowledge.ie/<wbr />irish-open-data-wishlist-<wbr />ireland-falling-behind-its-<wbr />open-data-promises-and-<wbr />international-best-practice/</a>]Speaking of Open Data, we must admit that we have not been successful enough with our fight re-establish trust in Ireland’s charity sector by opening up Ireland’s charity data in 2015. While we still believe that it is the wrong way to spend millions of euros in a private company to digitize and re-sell charity budget data [<a href="/open-data-ireland-charity-transparency/" target="_blank">http://openknowledge.ie/open-<wbr />data-ireland-charity-<wbr />transparency/</a>], instead of simply creating an open and easy to use data base for a small percentage of these costs [<a href="/opening-up-charities/" target="_blank">http://openknowledge.ie/<wbr />opening-up-charities/</a>], we accept that the Irish media may not seem this topic important enough to pick it up.We will continue with our efforts to open up more Irish Health Data [<a href="/projects/open-hospital-waiting-list/" target="_blank">http://openknowledge.ie/<wbr />projects/open-hospital-<wbr />waiting-list/</a>]. We were able to join forces with Wikimedia Ireland to bring to you a special Open Health Data evening in the science gallery this January 20th. Please join us for discussions there:</p> 
             
             <h2>
               <a href="https://ti.to/open-knowledge-ireland/OPEN-HEALTH-DATA-NIGHT-at-SCIENCE-GALLERY" target="_blank">OPEN HEALTH DATA NIGHT @ SCIENCE GALLERY</a>
@@ -66,7 +66,7 @@ tags:
             </p>
             
             <h2>
-              <a href="http://openknowledge.ie/donate/" target="_blank">Support us!</a>
+              <a href="/donate/" target="_blank">Support us!</a>
             </h2>
             
             <p>
@@ -74,7 +74,7 @@ tags:
             </p>
             
             <p>
-              <a href="http://openknowledge.ie/donate/" target="_blank">http://openknowledge.ie/<wbr />donate/</a>
+              <a href="/donate/" target="_blank">http://openknowledge.ie/<wbr />donate/</a>
             </p>
             
             <p>

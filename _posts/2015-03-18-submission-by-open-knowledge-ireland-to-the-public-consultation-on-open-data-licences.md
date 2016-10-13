@@ -48,7 +48,7 @@ tags:
   </p>
   
   <p>
-    Members of OK Ireland are technology experts and experienced civic activists, with expertise in implementing the best global open data practices and tacit knowledge of unique challenges in Ireland. In September 2013, facilitated by <a href="http://openknowledge.ie/ckan-hackathon-hello-from-okf-ireland/" target="_blank">a community engagement day</a>, volunteers audited and catalogued datasets originally published by Irish government agencies. This exercise became a foundation for our input into the <a href="http://index.okfn.org/place/" target="_blank">Global Open Data Census</a>. At the same event, an Irish instance of <a href="http://ckan.org/" target="_blank">CKAN</a>, the worlds most advanced data repository, was deployed.
+    Members of OK Ireland are technology experts and experienced civic activists, with expertise in implementing the best global open data practices and tacit knowledge of unique challenges in Ireland. In September 2013, facilitated by <a href="/ckan-hackathon-hello-from-okf-ireland/" target="_blank">a community engagement day</a>, volunteers audited and catalogued datasets originally published by Irish government agencies. This exercise became a foundation for our input into the <a href="http://index.okfn.org/place/" target="_blank">Global Open Data Census</a>. At the same event, an Irish instance of <a href="http://ckan.org/" target="_blank">CKAN</a>, the worlds most advanced data repository, was deployed.
   </p>
   
   <p>
@@ -64,5 +64,5 @@ tags:
   </p>
   
   <p>
-    Our submission document: <a href="http://openknowledge.ie/wp-content/uploads/2015/03/SubmissionbyOpenKnowledgeIrelandtothepublicconsultationonopendatalicences.pdf">Submission by Open Knowledge Ireland to the public consultation on open data licences.pdf</a>
+    Our submission document: <a href="/wp-content/uploads/2015/03/SubmissionbyOpenKnowledgeIrelandtothepublicconsultationonopendatalicences.pdf">Submission by Open Knowledge Ireland to the public consultation on open data licences.pdf</a>
   </p>

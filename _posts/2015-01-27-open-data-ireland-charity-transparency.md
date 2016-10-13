@@ -51,15 +51,15 @@ tags:
 </p>
 
 <p class="c1">
-  In the course of our research and implementation, we looked at the INKEx <span class="c5"><a class="c9" href="http://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-11-28-at-14.15.18.png">model</a></span> and its legacy with great interest.
+  In the course of our research and implementation, we looked at the INKEx <span class="c5"><a class="c9" href="/wp-content/uploads/2015/01/Screen-Shot-2015-11-28-at-14.15.18.png">model</a></span> and its legacy with great interest.
 </p>
 
 <p class="c1">
-  <a href="http://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-11-28-at-14.15.18.png"><img class="alignleft wp-image-1586" src="http://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-11-28-at-14.15.18-150x150.png" alt="" width="199" height="199" /></a>Between 2007 &#8211; 2012, this organisation<span class="c3"> </span>sought<span class="c3"> </span>to key in a dataset to a proprietary database and make extracts of this data publicly available through a “free website” with the purpose of creating “a public good for the benefit of civil society, not to generate profit” (See Sara Burke’s postmortem report on INKEx, commissioned by INKEx <span class="c5"><a class="c9" href="http://openknowledge.ie/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf" target="_blank">here</a></span>, p.5). Without noting any irony this endevour has been presented to the public as an “open data project”.
+  <a href="/wp-content/uploads/2015/01/Screen-Shot-2015-11-28-at-14.15.18.png"><img class="alignleft wp-image-1586" src="/wp-content/uploads/2015/01/Screen-Shot-2015-11-28-at-14.15.18-150x150.png" alt="" width="199" height="199" /></a>Between 2007 &#8211; 2012, this organisation<span class="c3"> </span>sought<span class="c3"> </span>to key in a dataset to a proprietary database and make extracts of this data publicly available through a “free website” with the purpose of creating “a public good for the benefit of civil society, not to generate profit” (See Sara Burke’s postmortem report on INKEx, commissioned by INKEx <span class="c5"><a class="c9" href="/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf" target="_blank">here</a></span>, p.5). Without noting any irony this endevour has been presented to the public as an “open data project”.
 </p>
 
 <p class="c1">
-  According to public records €1.1 million of public money was invested in INKEx between 2009 and 2011, public funding was withdrawn in 2012 and <span class="c5"><a class="c9" href="http://openknowledge.ie/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf" target="_blank">INKEx ceased trading in 2013</a></span><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt8" name="cmnt_ref8"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt9" name="cmnt_ref9"></a></sup>. However, the fruits of its endeavours and the data it collected are still not publicly available &#8211; rendering it difficult to judge whether it delivered on any of its objectives. (See case study, ibid, <span class="c5"><a class="c9" href="http://openknowledge.ie/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf" target="_blank">here</a></span>.)
+  According to public records €1.1 million of public money was invested in INKEx between 2009 and 2011, public funding was withdrawn in 2012 and <span class="c5"><a class="c9" href="/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf" target="_blank">INKEx ceased trading in 2013</a></span><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt8" name="cmnt_ref8"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt9" name="cmnt_ref9"></a></sup>. However, the fruits of its endeavours and the data it collected are still not publicly available &#8211; rendering it difficult to judge whether it delivered on any of its objectives. (See case study, ibid, <span class="c5"><a class="c9" href="/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf" target="_blank">here</a></span>.)
 </p>
 
 <p class="c1">
@@ -76,13 +76,13 @@ tags:
 
 <ul class="c12 lst-kix_mezem47aq46d-0 start">
   <li class="c1 c13">
-    The case study mentioned above, (<span class="c5"><a class="c9" href="http://openknowledge.ie/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf">ibid</a></span>, p14) reported that there was “little understanding” as to how INKEx’s model could have cost €1-1.3 million per year (publicly and privately raised) on an ongoing basis. (<span class="c5"><a class="c9" href="https://www.scribd.com/doc/291037455/INKEx-Case-Study-Sara-Burke-February-2013">ibid</a></span>, p14). This cost is scarcely justifiable in 2014.
+    The case study mentioned above, (<span class="c5"><a class="c9" href="/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf">ibid</a></span>, p14) reported that there was “little understanding” as to how INKEx’s model could have cost €1-1.3 million per year (publicly and privately raised) on an ongoing basis. (<span class="c5"><a class="c9" href="https://www.scribd.com/doc/291037455/INKEx-Case-Study-Sara-Burke-February-2013">ibid</a></span>, p14). This cost is scarcely justifiable in 2014.
   </li>
   <li class="c1 c13">
     Smart and prudent public funding remains an issue. What was questioned as being of limited value then remains bad value now.  Building a closed service  rather than harnessing public value, <span class="c5"><a class="c9" href="https://web.archive.org/web/20140630044318/http://www.irishnonprofits.ie/wp-content/uploads/2013/08/Irish-Nonprofits-Knowledge-Exchange-audited-financial-statements-for-the-period-ended-30.06.2012.pdf" target="_blank">as was done in 2010 and 2012</a></span> is not progressive thinking. Public opposition to this practice is clearly evident in the example of Irish Water &#8211; high wage bills for publicly-funded organisations. The charity sector can do without another stick to beat it.<sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt10" name="cmnt_ref10"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt11" name="cmnt_ref11"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt12" name="cmnt_ref12"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt13" name="cmnt_ref13"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt14" name="cmnt_ref14"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt15" name="cmnt_ref15"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt16" name="cmnt_ref16"></a></sup>
   </li>
   <li class="c1 c13">
-    INKEx’s business plan was to own the data, commercially tendering to provide it to the newly-legislated Charity Registry on one hand, while on the other hand receiving public grants and philanthropy for the data’s collection and curation.  <strong><span class="c8">Why should this company receive funds to build a privately-held asset which is then sold back to the state?</span></strong>  (See <span class="c5"><a class="c9" href="http://openknowledge.ie/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf" target="_blank">Sara Burke report</a></span> pp14).
+    INKEx’s business plan was to own the data, commercially tendering to provide it to the newly-legislated Charity Registry on one hand, while on the other hand receiving public grants and philanthropy for the data’s collection and curation.  <strong><span class="c8">Why should this company receive funds to build a privately-held asset which is then sold back to the state?</span></strong>  (See <span class="c5"><a class="c9" href="/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf" target="_blank">Sara Burke report</a></span> pp14).
   </li>
 </ul>
 
@@ -103,7 +103,7 @@ tags:
 </p>
 
 <p class="c1">
-  D/PER’s Reform Unit, which has a task to make open data a reality in Ireland, was supportive with organising a <a href="http://openknowledge.ie/open-charity-data-workshop-1/" target="_blank">workshop</a> and we are very grateful for their support. Open Data holds great promise. A promise embraced by one sector within D/PER, but this seems contrary to another unit supporting INKEx&#8217;s outdated approaches <sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt19" name="cmnt_ref19"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt20" name="cmnt_ref20"></a></sup> within D/PER and holding fast to an antiquated approach to serving society without civil engagement.
+  D/PER’s Reform Unit, which has a task to make open data a reality in Ireland, was supportive with organising a <a href="/open-charity-data-workshop-1/" target="_blank">workshop</a> and we are very grateful for their support. Open Data holds great promise. A promise embraced by one sector within D/PER, but this seems contrary to another unit supporting INKEx&#8217;s outdated approaches <sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt19" name="cmnt_ref19"></a></sup><sup><a href="file:///Users/denis/Downloads/OpenCharityDataprojectvsINKEx.html#cmnt20" name="cmnt_ref20"></a></sup> within D/PER and holding fast to an antiquated approach to serving society without civil engagement.
 </p>
 
 <p class="c1">
@@ -119,7 +119,7 @@ tags:
 </p>
 
 <p class="c1">
-  <a href="http://openknowledge.ie/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf">INKEx-Case-Study-Sara-Burke-February-2013 (PDF)</a>
+  <a href="/wp-content/uploads/2015/01/INKEx-Case-Study-Sara-Burke-February-20131.pdf">INKEx-Case-Study-Sara-Burke-February-2013 (PDF)</a>
 </p>
 
 <p class="c1">
@@ -128,7 +128,7 @@ tags:
 
  In 2015 the Department of Public Expenditure and Reform co-<a href="http://benefacts.ie/funding/" target="_blank">funded</a> re-launch of INKEX as Benefacts.
 
-[<img class="aligncenter size-full wp-image-1553" src="http://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25.png" alt="Screen Shot 2015-07-17 at 15.14.25" width="1243" height="303" srcset="https://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25.png 1243w, https://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25-300x73.png 300w, https://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25-1024x249.png 1024w" sizes="(max-width: 1243px) 100vw, 1243px" />](http://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25.png)
+[<img class="aligncenter size-full wp-image-1553" src="/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25.png" alt="Screen Shot 2015-07-17 at 15.14.25" width="1243" height="303" srcset="https://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25.png 1243w, https://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25-300x73.png 300w, https://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25-1024x249.png 1024w" sizes="(max-width: 1243px) 100vw, 1243px" />](http://openknowledge.ie/wp-content/uploads/2015/01/Screen-Shot-2015-07-17-at-15.14.25.png)
 
 Open Knowledge Ireland clarified what makes Benefacts different from its predecessor INKEx.
 

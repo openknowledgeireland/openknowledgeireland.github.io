@@ -89,7 +89,7 @@ tags:
 </p>
 
 <p class="c1">
-  Even within your own department, the “Reform Unit” is talking positively about theoretical aspects of open data. When it comes to practice, another unit within your department, is supporting The Irish Nonprofits Project Limited (formerly  <span class="c2"><a class="c4" href="http://openknowledge.ie/open-data-ireland-charity-transparency/" target="_blank">INKEx</a></span>, now known as Benefacts) an organisation which receives public funds to build a privately-held database with an intention to sell it back to the state, <a href="http://openknowledge.ie/open-data-ireland-charity-transparency/" target="_blank">relaunched</a>.
+  Even within your own department, the “Reform Unit” is talking positively about theoretical aspects of open data. When it comes to practice, another unit within your department, is supporting The Irish Nonprofits Project Limited (formerly  <span class="c2"><a class="c4" href="/open-data-ireland-charity-transparency/" target="_blank">INKEx</a></span>, now known as Benefacts) an organisation which receives public funds to build a privately-held database with an intention to sell it back to the state, <a href="/open-data-ireland-charity-transparency/" target="_blank">relaunched</a>.
 </p>
 
 <p class="c1">

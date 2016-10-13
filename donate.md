@@ -28,7 +28,7 @@ But doing this requires **time and money**. To organise and run events, train da
 
 #### How else can I support Open Knowledge Ireland?
 
-  * Much of what we do depends on those who **volunteer their time and effort** &#8212; by <a href="http://openknowledge.ie/projects/" target="_blank">building software to help people work with data</a>, <a href="https://ti.to/open-knowledge-ireland" target="_blank">organising and running local meetups to bring people together</a>, [writing handbooks](https://booksprint.hackpad.com/README-FIRST-Jr.-Cycle-Short-Course-5ptUVQwGyMO) , helping to develop and maintain our websites, and much more.
+  * Much of what we do depends on those who **volunteer their time and effort** &#8212; by <a href="/projects/" target="_blank">building software to help people work with data</a>, <a href="https://ti.to/open-knowledge-ireland" target="_blank">organising and running local meetups to bring people together</a>, [writing handbooks](https://booksprint.hackpad.com/README-FIRST-Jr.-Cycle-Short-Course-5ptUVQwGyMO) , helping to develop and maintain our websites, and much more.
 
 #### Is my support tax deductible?
 

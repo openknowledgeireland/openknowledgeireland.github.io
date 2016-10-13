@@ -55,10 +55,10 @@ While this is the first draft, it gives you a glimpse at the Hospital Waiting li
 
 <a href="https://public.tableau.com/views/OpenHospitalWaitingList/HospitalsWaitingList?:embed=y&:display_count=yes&:showTabs=y" target="_blank" rel="nofollow">https://public.tableau.com/views/OpenHospitalWaitingList/HospitalsWaitingList?:embed=y&:display_count=yes&:showTabs=y</a>
 
-Thanks to <a href="http://openknowledge.ie/projects/open-hospital-waiting-list/" target="_blank" rel="nofollow">Open Knowledge Ireland</a> team and to Adrian Corcoran for making this data available.
+Thanks to <a href="/projects/open-hospital-waiting-list/" target="_blank" rel="nofollow">Open Knowledge Ireland</a> team and to Adrian Corcoran for making this data available.
 
 Author: <a href="https://ie.linkedin.com/in/danbujoreanu" target="_blank">Dan Alexandru Bujoreanu</a>
 
-Hospital Waiting List Project page: <a href="http://openknowledge.ie/projects/open-hospital-waiting-list/" target="_blank">http://openknowledge.ie/projects/open-hospital-waiting-list/</a>
+Hospital Waiting List Project page: <a href="/projects/open-hospital-waiting-list/" target="_blank">http://openknowledge.ie/projects/open-hospital-waiting-list/</a>
 
 Linked Hospital Waiting List Data: <a href="https://github.com/openknowledgeireland/DataStore/blob/master/HospitalWaitingList/NTPF_Datasets%20-%20Linked_Hospital.csv" target="_blank">https://github.com/openknowledgeireland/DataStore/blob/master/HospitalWaitingList/NTPF_Datasets%20-%20Linked_Hospital.csv</a>

@@ -6,7 +6,7 @@ author: Ingo Keck
 layout: page
 guid: http://openknowledge.ie/?page_id=1472
 ---
-[<img class="alignnone size-full wp-image-1476" src="http://openknowledge.ie/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26.png" alt="Opening Up Charity Data" width="972" height="637" srcset="https://openknowledge.ie/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26.png 972w, https://openknowledge.ie/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26-300x196.png 300w" sizes="(max-width: 972px) 100vw, 972px" />](http://openknowledge.ie/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf)
+[<img class="alignnone size-full wp-image-1476" src="/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26.png" alt="Opening Up Charity Data" width="972" height="637" srcset="https://openknowledge.ie/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26.png 972w, https://openknowledge.ie/wp-content/uploads/2015/05/Screen-Shot-2015-05-09-at-15.23.26-300x196.png 300w" sizes="(max-width: 972px) 100vw, 972px" />](http://openknowledge.ie/wp-content/uploads/2014/12/charity_casestudy_draft2.pdf)
 
 ### **Short Story – there’s a need**
 
