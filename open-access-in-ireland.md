@@ -4,8 +4,8 @@ title: Open Access In Ireland: A Case study
 date: 2014-10-26T13:39:11+00:00
 author: Ingo Keck
 layout: page
-guid: http://openknowledge.ie/?page_id=1309
 permalink: /open-access-in-ireland/
+guid: http://openknowledge.ie/?page_id=1309
 ---
 <h1 lang="en-GB" align="center">
   State of Open Access In Ireland
