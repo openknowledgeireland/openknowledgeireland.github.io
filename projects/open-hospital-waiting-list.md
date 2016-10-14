@@ -5,6 +5,7 @@ date: 2015-04-23T10:20:49+00:00
 author: Ingo Keck
 layout: page
 guid: http://openknowledge.ie/?page_id=1431
+permalink: /projects/open-hospital-waiting-list/
 ---
 Over the past few months Open Knowledge Ireland has scraped the data from these NTPF lists and created a dataset of easily accessible information. The datasets are available <a href="https://github.com/openknowledgeireland/DataStore/blob/master/HospitalWaitingList/NTPF_Datasets%20-%20Linked_Hospital.csv" target="_blank">below</a> and clearly show that the longest waiting lists are in the areas of Otolaryngology, Orthopaedics, Opthamology and General Surgery. Waiting so long for that first specialist appointment results in poorer health outcomes, more expensive treatment and in some instance unnecessary and premature deaths.
 
