@@ -4,8 +4,8 @@ title: Upcoming Events
 date: 2014-01-21T22:40:00+00:00
 author: Flora Fleischer
 layout: page
-permalink: /events/
 guid: http://irl.okfn.org/?page_id=74
+permalink: /events/
 layout_key:
   - 
 post_slider_check_key:
