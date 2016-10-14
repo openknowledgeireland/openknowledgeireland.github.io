@@ -5,6 +5,7 @@ date: 2014-05-28T19:31:57+00:00
 author: salua@salua-nassabay.de salua
 layout: page
 guid: https://www.openknowledge.ie/?page_id=555
+permalink: /open-data/
 layout_key:
   - r
 post_slider_check_key:

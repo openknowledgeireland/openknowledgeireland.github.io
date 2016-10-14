@@ -5,6 +5,7 @@ date: 2014-03-05T00:11:11+00:00
 author: Flora Fleischer
 layout: page
 guid: http://irl.okfn.org/?page_id=133
+permalink: /projects/
 layout_key:
   - r
 post_slider_check_key:
