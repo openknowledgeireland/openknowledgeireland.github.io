@@ -2,7 +2,7 @@
 id: 1309
 title: Open Access In Ireland: A Case study
 date: 2014-10-26T13:39:11+00:00
-author: Ingo Keck
+author: Salua Nassabay
 guid: http://openknowledge.ie/?page_id=1309
 permalink: /open-access-in-ireland/
 layout: page
@@ -112,7 +112,7 @@ layout: page
         </td></tr> </tbody> </table> 
         
         <p class="western" lang="en-GB" align="center">
-          <span style="color: #de481c;"><span lang="zxx"><b><span style="color: #000000;"><span style="font-size: small;">Table </span></span></b></span></span><span style="color: #de481c;"><span lang="zxx"><b><span style="color: #000000;"><span style="font-size: small;">1</span></span></b></span></span><span style="color: #de481c;"><span lang="zxx"><b><span style="color: #000000;"><span style="font-size: small;">. </span></span></b></span></span><span style="color: #de481c;"><span lang="zxx"><span style="color: #000000;"><span style="font-size: small;">National Principles on Open Access Policy Statement. <a href="https://www.dcu.ie/sites/default/files/communications/pdfs/PatriciaClarke2014.pdf">https://www.dcu.ie/sites/default/files/communications/pdfs/PatriciaClarke2014.pdf</a> and </span></span></span></span><span style="color: #de481c;"><span lang="zxx"><b><a class="western" href="http://openaccess.thehealthwell.info/sites/default/files/documents/NationalPrinciplesonOAPolicyStatement.pdf"><span style="font-size: small;">http://openaccess.thehealthwell.info/sites/default/files/documents/NationalPrinciplesonOAPolicyStatement.pdf<br /> </span></a></b></span></span>
+          <span style="color: #de481c;"><span lang="zxx"><b><span style="color: #000000;"><span style="font-size: small;">Table </span></span></b></span></span><span style="color: #de481c;"><span lang="zxx"><b><span style="color: #000000;"><span style="font-size: small;">1</span></span></b></span></span><span style="color: #de481c;"><span lang="zxx"><b><span style="color: #000000;"><span style="font-size: small;">. </span></span></b></span></span><span style="color: #de481c;"><span lang="zxx"><span style="color: #000000;"><span style="font-size: small;">National Principles on Open Access Policy Statement. <a href="https://www.dcu.ie/sites/default/files/communications/pdfs/PatriciaClarke2014.pdf">https://www.dcu.ie/sites/default/files/communications/pdfs/PatriciaClarke2014.pdf</a> andÂ </span></span></span></span><span style="color: #de481c;"><span lang="zxx"><b><a class="western" href="http://openaccess.thehealthwell.info/sites/default/files/documents/NationalPrinciplesonOAPolicyStatement.pdf"><span style="font-size: small;">http://openaccess.thehealthwell.info/sites/default/files/documents/NationalPrinciplesonOAPolicyStatement.pdf<br /> </span></a></b></span></span>
         </p>
         
         <p class="western" lang="en-GB">
@@ -1074,7 +1074,7 @@ layout: page
                             </p>
                             
                             <p lang="en-GB">
-                              <span style="color: #000000; line-height: 1.5;">https://www.openknowledge.ie; twitter: @OKFirl </span>
+                              <span style="color: #000000; line-height: 1.5;">https://www.openknowledge.ie; twitter: @OKFirlÂ </span>
                             </p>
                             
                             <p lang="en-GB">
