@@ -1,3 +1,12 @@
+---
+id: 1309
+title: Open Access In Ireland: A Case study
+date: 2014-10-26T13:39:11+00:00
+author: Ingo Keck
+guid: http://openknowledge.ie/?page_id=1309
+permalink: /open-access-in-ireland/
+layout: page
+---
 <h1 lang="en-GB" align="center">
   State of Open Access In Ireland
 </h1>
@@ -17,7 +26,7 @@
 </h3>
 
 <p class="western" lang="en-GB">
-  <span style="font-size: small;">In summer 2004, the Irish Research eLibrary (IReL) was launched, giving online access to a wide range of key research journals. The <i>National Principles on Open Access Policy Statement </i>were launched on Oct 23rd 2012 at the Digital Repository of Ireland Conference by Sean Sherlock, Minister of State, Department of Enterprise, Jobs & Innovation and Department of Education & Skills with responsibility for Research & Innovation. The policy consists of a ‘Green way’ mandate and encouragement to publish in ’Gold’ OA journals. It aligns with the European policy for Horizon 2020. OA on national level is managed by the National Steering Committee on OA Policy, see table 3.</span>
+  <span style="font-size: small;">In summer 2004, the Irish Research eLibrary (IReL) was launched, giving online access to a wide range of key research journals. The <i>National Principles on Open Access Policy Statement </i>were launched on Oct 23rd 2012 at the Digital Repository of Ireland Conference by Sean Sherlock, Minister of State, Department of Enterprise, Jobs & Innovation and Department of Education & Skills with responsibility for Research & Innovation. The policy consists of a 'Green way' mandate and encouragement to publish in 'Gold' OA journals. It aligns with the European policy for Horizon 2020. OA on national level is managed by the National Steering Committee on OA Policy, see table 3.</span>
 </p>
 
 <p class="western" lang="en-GB">
@@ -50,7 +59,7 @@
       </p>
       
       <p class="western" lang="en-GB" align="left">
-        “<span style="font-size: small;">include peer-reviewed publications, research data and other research artefacts which<br /> feed the research process”.<br /> </span>
+        "<span style="font-size: small;">include peer-reviewed publications, research data and other research artefacts which<br /> feed the research process".<br /> </span>
       </p>
     </td>
     
@@ -70,7 +79,7 @@
       </p>
       
       <p class="western" lang="en-GB" align="left">
-        <span style="font-size: small;">Green route policy – not exclusive</span>
+        <span style="font-size: small;">Green route policy - not exclusive</span>
       </p>
       
       <p class="western" lang="en-GB" align="left">
@@ -941,7 +950,7 @@
                               <tr valign="top">
                                 <td bgcolor="#e6e6e6" width="345" height="26">
                                   <p class="western" lang="en-GB" align="left">
-                                    <span style="color: #de481c;"><span lang="zxx"><span style="color: #000000;"><span style="font-size: small;">RIAN Steering Group. IUA (Irish Universities Association) Librarian’s Group (Coordinating body). RIAN is the outcome of a project to build online open access to institutional repositories in all seven Irish universities and to harvest their content to the national portal.</span></span></span></span>
+                                    <span style="color: #de481c;"><span lang="zxx"><span style="color: #000000;"><span style="font-size: small;">RIAN Steering Group. IUA (Irish Universities Association) Librarian's Group (Coordinating body). RIAN is the outcome of a project to build online open access to institutional repositories in all seven Irish universities and to harvest their content to the national portal.</span></span></span></span>
                                   </p>
                                 </td>
                                 
@@ -1021,7 +1030,7 @@
                             </p>
                             
                             <p class="western" lang="en-GB">
-                              <span style="font-size: small;">The launch of Ireland’s national Open Access policy has put Ireland ahead of many European partners. Irish research organisations are particularly successful in the following areas of research: Information and Communication Technologies, Health and Food, Agriculture, and Biotechnology. </span>
+                              <span style="font-size: small;">The launch of Ireland's national Open Access policy has put Ireland ahead of many European partners. Irish research organisations are particularly successful in the following areas of research: Information and Communication Technologies, Health and Food, Agriculture, and Biotechnology. </span>
                             </p>
                             
                             <p class="western" lang="en-GB">
@@ -1053,7 +1062,7 @@
                             </p>
                             
                             <p class="western" lang="en-GB">
-                              <span style="color: #de481c;"><span lang="zxx"><b><span style="color: #000000;"><span style="font-size: small;">&#8211; </span></span></b></span></span><span style="font-size: small;">Trinity’s Open Access News / </span><span style="color: #de481c;"><span lang="zxx"><b><a class="western" href="http://trinity-openaccess.blogspot.ie/"><span style="font-size: small;">http://trinity-openaccess.blogspot.ie</span></a></b></span></span>
+                              <span style="color: #de481c;"><span lang="zxx"><b><span style="color: #000000;"><span style="font-size: small;">&#8211; </span></span></b></span></span><span style="font-size: small;">Trinity's Open Access News / </span><span style="color: #de481c;"><span lang="zxx"><b><a class="western" href="http://trinity-openaccess.blogspot.ie/"><span style="font-size: small;">http://trinity-openaccess.blogspot.ie</span></a></b></span></span>
                             </p>
                             
                             <p class="western" lang="en-GB">
