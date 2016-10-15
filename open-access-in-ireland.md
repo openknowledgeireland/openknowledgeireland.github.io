@@ -2,7 +2,7 @@
 id: 1309
 title: Open Access In Ireland: A Case study
 date: 2014-10-26T13:39:11+00:00
-author: Ingo Keck
+author: Salua Nassabay
 guid: http://openknowledge.ie/?page_id=1309
 permalink: /open-access-in-ireland/
 layout: page
